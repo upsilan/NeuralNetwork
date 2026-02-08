@@ -1,0 +1,14 @@
+/home/upsilan/Coding/Neural Network from scratch/bin/Debug/net10.0/Neural Network from scratch
+/home/upsilan/Coding/Neural Network from scratch/bin/Debug/net10.0/Neural Network from scratch.deps.json
+/home/upsilan/Coding/Neural Network from scratch/bin/Debug/net10.0/Neural Network from scratch.runtimeconfig.json
+/home/upsilan/Coding/Neural Network from scratch/bin/Debug/net10.0/Neural Network from scratch.dll
+/home/upsilan/Coding/Neural Network from scratch/bin/Debug/net10.0/Neural Network from scratch.pdb
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.GeneratedMSBuildEditorConfig.editorconfig
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.AssemblyInfoInputs.cache
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.AssemblyInfo.cs
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.csproj.CoreCompileInputs.cache
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.dll
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/refint/Neural Network from scratch.dll
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.pdb
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.genruntimeconfig.cache
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/ref/Neural Network from scratch.dll
