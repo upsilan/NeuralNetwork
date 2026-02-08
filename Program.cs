@@ -16,18 +16,30 @@ namespace Neural_Network
         Layer[] layers;
         public NeuralNetwork(params int[] layerSizes)
         {
-            layers = new Layer[layerSizes.Length];
-            for(int i = 1; i < layers.Length; i++)
+            layers = new Layer[layerSizes.Length - 1];
+            for(int i = 0; i < layers.Length - 1; i++)
             {
-                layers[i] = new Layer(layerSizes[i - 1] ,layerSizes[i]);
+                layers[i] = new Layer(layerSizes[i] ,layerSizes[i + 1]);
             }
         }
+
+        public void Forward(double[] inputs)
+        {
+            layers[0].Forward(inputs);
+            for(int i = 1; i < layers.Length; i++)
+            {
+                layers[i].Forward(layers[i - 1].nodeArray);
+            }
+        }
+
+
+
 
         class Layer
         {
             double[,] weights;
             double[] biases;
-            double[] nodeArray;
+            public double[] nodeArray;
 
             int n_inputs;
             int n_nodes;
