@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Neural Network from scratch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e42e132aced9574b9eceb9b232cfd396bb17920")]
 [assembly: System.Reflection.AssemblyProductAttribute("Neural Network from scratch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Neural Network from scratch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

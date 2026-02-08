@@ -12,3 +12,4 @@
 /home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.pdb
 /home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.genruntimeconfig.cache
 /home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/ref/Neural Network from scratch.dll
+/home/upsilan/Coding/Neural Network from scratch/obj/Debug/net10.0/Neural Network from scratch.sourcelink.json
